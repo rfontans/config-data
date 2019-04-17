@@ -1,7 +1,2 @@
-lucky-word:
-- Irish
-- Rabbit's Foot
-- Serendipity
-- Uptown
-- Chemical
+lucky-word: 'Irish', 'Rabbit's Foot', 'Serendipity'
 
