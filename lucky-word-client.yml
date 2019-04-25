@@ -1,1 +1,4 @@
-lucky-word: swim
+wordConfig:
+  luckyWord: Rabbit’s Foot
+  preamble: preamble???
+  
