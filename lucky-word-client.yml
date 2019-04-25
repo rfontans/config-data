@@ -1,6 +1,4 @@
 ---
 wordConfig:
-  luckyWord: Rabbit’s Foot
-  preamble: --->o
-  
-  
+  preamble: The lucky word is
+  luckyWord: Irish
